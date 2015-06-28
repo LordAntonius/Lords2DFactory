@@ -1,0 +1,48 @@
+UI :
+	* Page d'accueil
+		> Ramifications
+	* Menu Pause
+	* Game UI
+	* Boites de dialogues
+
+Systeme de sauvegarde :
+	* Sauvegarde
+	* Chargement
+
+Physique 2D :
+	* Collisions
+	* Forces
+	* Cinétiques
+
+Entite :
+	* Sprites
+	* Personnage
+		> Controller
+	* Decor
+	* Particules
+
+Son :
+	* Mono/Stereo
+	* Musiques
+	* Bruit
+
+Controle :
+	* Souris
+	* Clavier
+	* Interchangeable Android/PC
+
+Evenements :
+	* Declencheurs
+	* Lecteurs
+
+Histoire/Quetes :
+	* Objectifs
+	* Dialogues
+	* Cinématiques
+
+Test :
+	* Systeme de commandes
+
+Cibles :
+	* PC/Linux/Android
+
