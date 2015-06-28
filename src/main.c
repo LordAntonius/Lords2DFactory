@@ -6,8 +6,6 @@
 
 int main(int argc, char** argv)
 {
-	printf("%d", n);
-
 	graphic_handle_t *pGraphic_handle;
 	int ret;
 	SDL_Event event;
